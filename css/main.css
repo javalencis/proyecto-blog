@@ -125,11 +125,20 @@ nav .profile-link a{
     max-width: 980px;
     margin: 0 auto;
 }
+.perfil-main-new{
+    padding-top: 20px;
+    
+
+}
 .blogs-news-img-container{
     grid-column: 1;
 }
 .blogs-news-img-container img{
     width: 85%;
+}
+
+.img-perfil img{
+    width: 60%;
 }
 .blogs-news-info-container{
     grid-column: 2;
