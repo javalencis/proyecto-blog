@@ -189,6 +189,8 @@ footer p{
 
 .blogpost-img-container{
     padding: 0 50px 40px;
+    max-width: 980px;
+    margin: auto;
 
 
 }
@@ -218,18 +220,17 @@ footer p{
     height: 300px;
     display: flex;
     justify-content: space-between;
-    background-color: #cdd2da;
-    padding: 20px;
-   
+    background-color: #cdd2da;   
 
 }
 
 .contact-main-container> div{
-    width: 48%;
+    width: 50%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px;
     
 }
 .contact-main-container>div img{
